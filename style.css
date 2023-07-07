@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: #413f3f;
+    height: 60px;
+    padding-top: 20px;
+}
+.logo{
+    
+    float: left;
+    width: 35%;
+    overflow: hidden;
+    margin-left: 80px;
+    padding-top: 5px;
+}
+.logo img{
+    width: 100px;
+    
+}
+.menu{
+    float:left;
+    
+    
+    
+}
+.menu nav ul li{
+    display: inline;
+    margin-left: 20px;
+    font-size: 25px;
+    color: aliceblue;
+    font-weight: 200;
+   
+    
+}
+.menu nav ul li:hover{
+    color: black;
+}
+.bar{
+    background-color: black;
+    height: 600px;
+}
+.bar img{
+    width: 350px;
+    padding-top: 200px;
+    float: right;
+    
+
+}
+.write{
+    padding-top: 300px;
+    float: left;
+    color: aliceblue;
+    margin-left: 30px;
+    font-weight: 800;
+}
+.write h3{
+    font-weight: 300;
+}
+.write button{
+    background-color: rgb(226, 49, 43);
+    padding: 7px;
+    margin-top: 5px;
+}
